@@ -1,0 +1,5 @@
+class Student{
+
+StudentName;
+StudentId;
+}
